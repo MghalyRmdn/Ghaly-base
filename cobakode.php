@@ -8,7 +8,7 @@
 <body>
 <?php
 $nama = "Pesantren Koding";
-$nama2 = Yuk belajar';
+$nama2 = 'Yuk belajar';
 echo "Selamat datang di $nama<br>";
 //tipe data angka/integer
 //1.integer 2.float
